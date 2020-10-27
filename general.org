@@ -1,0 +1,36 @@
+* Course website
+https://learnit.itu.dk/course/view.php?id=3019458
+
+* Book
+** Algorithm Design by Jon Kleinberg and Éva Tardos
+   "The course roughly covers the first two thirds of the book, up to and including chapter 8. The slides will be linked from the course site. It makes sense to buy a physical book, 
+   since you can bring it to the exam (while you can’t bring an electronic device.)"
+* Exam
+4 hours. Pen and paper. Examples provided. "open book with notes and book"
+* Exercises
+10/12 mandatory, due on Wednesdays@0759 (before class)
+** Autograded individual on Kattis
+** Group Hand-ins
+   With reports, submitted on LearnIT (6/7 size)
+   
+* Platforms
+** Piazza
+   For communication, individual exercises strategy discussion.
+   https://piazza.com/itu.dk/fall2020/ksaldes1ku
+** Kattis
+   Autograded exercises.
+   https://itu.kattis.com/courses/KSALDES1KU/KSALDES1KU-2020
+   
+* Lecture slides
+  https://www.cs.princeton.edu/~wayne/kleinberg-tardos/
+  
+* TAs
+Group D is assigned 4A14
+* Team
+ They must be of 6/7 people, I'm guessing our base group:
+- Sebastian
+- Mark
+- Benjamin
+- Emil
+- Me
+We are group D
