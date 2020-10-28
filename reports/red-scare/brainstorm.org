@@ -1,0 +1,37 @@
+* Problems
+** None
+*** Statement
+    length of shortest avoiding reds
+*** Proposed
+    BFS avoiding reds, O(n+m)
+** Some
+*** Statement
+    True if st-path exists w/ at least one red vertex
+*** Proposed
+**** Proposal 1
+     For each red vertex q True if sq-path, qt-path exists
+    
+     Search of sq-path can be done in pol.
+    
+     At most O(r(pol)) (there should be something better)
+** Many
+*** Statement
+    max{r(p)| p in st-paths}
+*** Proposed
+    Reducible to Hamiltonian cycle, given a graph w/ n vertices, add two nodes at some vertex,
+    color everyone else red, ask in presumably polytime if MANY==n. Knowing if Hamiltonian
+    cycle exists would be if any of this comparisons is true, for at most n vertices O(nO(MANY))
+** Few
+*** Statement
+    min{r(p)| p in st-paths}
+*** Proposed
+    Due to the statement, this must also be NP-complete
+** Alternate
+*** Statement
+    True if exists alternating r/b path
+*** Proposed
+    BFS w/ extra restrictions
+    
+* Languages/libraries
+
+  NetworkX on Python
